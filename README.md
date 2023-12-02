@@ -1,5 +1,5 @@
 # Cows-and-Bulls
-Desktop Game App (Windows Forms)
+Cows and Bulls game Desktop App (Windows Forms).
 The Program creates a secret code, a sequence of 4 colors (without duplications).
 The player makes a guess to crack the secret sequence.
 Upon making a guess, 2 hints will be provided- black and yellow.
