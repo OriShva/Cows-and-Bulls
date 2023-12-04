@@ -8,7 +8,10 @@ Enjoy!
 
 
 
-https://github.com/OriShva/Cows-and-Bulls/assets/143295982/040a962b-72db-4761-97db-7d52b3f4f33b
+
+https://github.com/OriShva/Cows-and-Bulls/assets/143295982/efd848b0-442c-4f08-8a00-b4c784027aef
+
+
 
 
 
